@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=${http://github.com/draganjovic/Data-Structures/blob/master/Projects/Ordered%20List/ordered-list.pdf}
+#In this assignment, you will implement an ordered_list class. This class will allow the insertion and removal of integers into an ordered list (ascending). You MUST implement this using a linked list.
