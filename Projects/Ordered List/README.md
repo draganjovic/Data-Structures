@@ -1,3 +1,3 @@
 #Project 1: Ordered List
 
-###In this assignment, you will implement an ordered_list class. This class will allow the insertion and removal of integers into an ordered list (ascending). You MUST implement this using a linked list.
+####In this assignment, you will implement an ordered_list class. This class will allow the insertion and removal of integers into an ordered list (ascending). You MUST implement this using a linked list.
