@@ -14,9 +14,9 @@ class stack
 
       // Constructor
   	stack()
-    {
-      topPtr = NULL;
-    }
+      {
+        topPtr = NULL;
+      }
     
     ~stack(); // destructor
 
