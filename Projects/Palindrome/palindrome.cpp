@@ -15,7 +15,7 @@ using namespace std;
 // fills up stack and queue
 void fillData(string str, stack<string> &stk, queue<string> &que);
 
-// converts a string to only alphabetic characters
+// converts a string to only alphabetic characters (returns str)
 string strip(string s);
 
 // checks string to see if it is a palindrome
@@ -31,13 +31,13 @@ int main()
 	string _str; // _str takes in raw input from user
 	string quit = "q";
 
-	cout << "Enter the string: ";
+	// cout << "Enter the string: ";
   while(1)
   {
     std::getline(std::cin, _str);
-    cout << _str << endl;
+    // cout << _str << endl;
     str = strip(_str);
-    cout <<str << endl;
+    // cout << str << endl;
     if(str.compare(quit) == 0)
     {
       break;
@@ -140,7 +140,7 @@ bool iequals(const string& a, const string& b)
        que.dequeue();
        i++;
      }
-		 // returns mismatch if there is any
+// returns mismatch if there is any
      else
      {
       cout << i << endl;
