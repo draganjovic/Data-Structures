@@ -17,6 +17,7 @@ class stack
     {
       topPtr = NULL;
     }
+    
     ~stack(); // destructor
 
     // copy constructor
