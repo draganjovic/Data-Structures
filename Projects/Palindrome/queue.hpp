@@ -13,9 +13,9 @@ class queue
   public:
 
   	queue();  // Constructor
-   ~queue(); // destructor
+   	~queue(); // destructor
 
-    // Copy constructor
+   	// Copy constructor
   	queue(const queue<Type> &rhs); // rhs = right hand side
 
   	// assignment operator (overloaded)
