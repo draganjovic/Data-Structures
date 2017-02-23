@@ -13,7 +13,7 @@ class stack
   public:
 
       // Constructor
-  	stack()
+  stack()
       {
         topPtr = NULL;
       }
