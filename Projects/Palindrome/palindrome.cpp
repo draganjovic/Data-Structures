@@ -30,7 +30,7 @@ int main()
 	string quit = "q";
 	string fname, line;
 
-	cout << "Enter the string: ";
+  cout << "Enter the string: ";
   while(1)
   {
     std::getline(std::cin, _str);
