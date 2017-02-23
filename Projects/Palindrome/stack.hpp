@@ -27,7 +27,7 @@ class stack
     stack<stackElem> & operator = (const stack<stackElem> &rhs);
 
     // push function
-  void push(const stackElem &value);
+    void push(const stackElem &value);
 
     // pop function
     void pop();
