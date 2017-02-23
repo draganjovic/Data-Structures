@@ -12,7 +12,7 @@ class stack
 {
   public:
 
-    // Constructor
+      // Constructor
   	stack()
     {
       topPtr = NULL;
