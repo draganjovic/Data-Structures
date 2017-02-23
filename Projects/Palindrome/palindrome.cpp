@@ -80,7 +80,7 @@ void fillData(string str, stack<string> &stk, queue<string> &que)
 
  if(stk.empty() && que.isEmpty())
  {
-	// fills up stack
+  // fills up stack
   int i = 0;
   while(i < str.length())
   {
@@ -133,14 +133,14 @@ bool iequals(const string& a, const string& b)
     {
       string s1 = stk.top();
       string s2 = que.front();
-// pop and dequeue from stack
+      // pop and dequeue from stack
       if(iequals(s1,s2))
       {
        stk.pop();
        que.dequeue();
        i++;
      }
-// returns mismatch if there is any
+     // returns mismatch if there is any
      else
      {
       cout << i << endl;
