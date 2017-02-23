@@ -12,7 +12,7 @@ class stack
 {
   public:
 
-       // Constructor
+      // Constructor
      stack()
       {
         topPtr = NULL;
@@ -21,7 +21,7 @@ class stack
     ~stack(); // destructor
 
     // copy constructor
-  	stack(const stack<stackElem> &rhs); // rhs = right hand side
+  stack(const stack<stackElem> &rhs); // rhs = right hand side
 
     // assignment operator (overloaded)
     stack<stackElem> & operator = (const stack<stackElem> &rhs);
