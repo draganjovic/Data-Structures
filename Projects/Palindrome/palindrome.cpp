@@ -31,13 +31,13 @@ int main()
 	string _str; // _str takes in raw input from user
 	string quit = "q";
 
-	// cout << "Enter the string: ";
+	cout << "Enter the string: ";
   while(1)
   {
     std::getline(std::cin, _str);
-    // cout << _str << endl;
+    cout << _str << endl;
     str = strip(_str);
-    // cout << str << endl;
+    cout << str << endl;
     if(str.compare(quit) == 0)
     {
       break;
