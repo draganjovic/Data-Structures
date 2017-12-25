@@ -27,3 +27,15 @@ Your task will be to determine if an input string is has the same letters when r
 backwards. For example: The word ‘anna’ has the same letters regardless of which end you start from. A
 palindrome For the purpose of this project we will ignore any non-alphanumeric characters (space, punctuation,
 non-printable characters).
+
+### General Program Flow
+
+while a string is entered on standard input and is not "q"
+store the string
+using recursion, add each alphanumeric character to both a stack and a queue
+using recursion, pop a character from the stack and dequeue a character from the queue
+if the characters are not equal
+output the index of the missmatch followed by std::endl
+recursively empty the stack and queue
+if both the stack and queue are empty
+output -1 followed by std::endl
