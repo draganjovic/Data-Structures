@@ -31,11 +31,19 @@ non-printable characters).
 ### General Program Flow
 
 • while a string is entered on standard input and is not "q"
+
 • store the string
+
 • using recursion, add each alphanumeric character to both a stack and a queue
+
 • using recursion, pop a character from the stack and dequeue a character from the queue
+
 • if the characters are not equal
+
 • output the index of the missmatch followed by std::endl
+
 • recursively empty the stack and queue
+
 • if both the stack and queue are empty
+
 • output -1 followed by std::endl
