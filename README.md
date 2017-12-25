@@ -1,6 +1,6 @@
 # University of Akron - Data Structures (3460:316)
 
-#### Projects
+## Projects
 
 Project 1 : Implement an Ordered List
 
@@ -10,7 +10,7 @@ Project 3 : Implement an AVL class
 
 Project 4 : Implement a Huffman Coding Tree class
 
-#### Tools used
+## Tools used
  
 1. MacBook Pro (Retina, 13-inch, Early 2015)
 2. Dual Monitor Setup
