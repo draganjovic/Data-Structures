@@ -3,7 +3,7 @@
 In this assignment I will implement a palindrome class. This class will detect if a given string is a
 palindrome or not (it reads the same in reverse).
 
-### Files 
+## Files 
 
 • `CMakeLists.txt` - The build system for your project. Read this file carefully.
 
@@ -28,7 +28,7 @@ backwards. For example: The word ‘anna’ has the same letters regardless of w
 palindrome For the purpose of this project we will ignore any non-alphanumeric characters (space, punctuation,
 non-printable characters).
 
-### General Program Flow
+## General Program Flow
 
 • while a string is entered on standard input and is not "q"
 
@@ -48,7 +48,7 @@ non-printable characters).
 
 • output -1 followed by std::endl
 
-### Tools used
+## Tools used
  
 1. MacBook Pro (Retina, 13-inch, Early 2015)
 2. Dual Monitor Setup
