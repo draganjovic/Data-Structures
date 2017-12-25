@@ -47,3 +47,13 @@ non-printable characters).
 • if both the stack and queue are empty
 
 • output -1 followed by std::endl
+
+#### Tools used
+ 
+1. MacBook Pro (Retina, 13-inch, Early 2015)
+2. Dual Monitor Setup
+3. Terminal
+4. Emacs
+5. Atom
+6. Xcode
+
