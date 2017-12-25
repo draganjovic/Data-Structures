@@ -5,7 +5,7 @@ palindrome or not (it reads the same in reverse).
 
 #### Files 
 
-• CMakeLists.txt - The build system for your project. Read this file carefully.
+• CMakeLists.txt - `The build system for your project. Read this file carefully.'
 
 • palindrome.cpp - This is where you write your main function.
 
