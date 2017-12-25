@@ -48,7 +48,7 @@ non-printable characters).
 
 • output -1 followed by std::endl
 
-#### Tools used
+### Tools used
  
 1. MacBook Pro (Retina, 13-inch, Early 2015)
 2. Dual Monitor Setup
