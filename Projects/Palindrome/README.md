@@ -21,7 +21,7 @@ palindrome or not (it reads the same in reverse).
 
 • `output1.txt` - The expected output from using the input1.txt file.
 
-### Class requirements
+## Class requirements
 
 Your task will be to determine if an input string is has the same letters when read forwards as it does
 backwards. For example: The word ‘anna’ has the same letters regardless of which end you start from. A
