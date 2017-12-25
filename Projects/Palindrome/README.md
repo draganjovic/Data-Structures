@@ -1,5 +1,1 @@
-#**Project 2:  Palindrome**
-
-[embed]http://raw.githubusercontent.com/draganjovic/Data-Structures/master/Projects/Palindrome/Palindrome.pdf[/embed]
-
-f
+http://nbviewer.jupyter.org/github/draganjovic/Data-Structures/blob/master/Projects/Palindrome/Palindrome.pdf
